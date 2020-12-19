@@ -1,0 +1,2 @@
+# gntatis
+Static website
