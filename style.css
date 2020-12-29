@@ -75,14 +75,13 @@ body{
 }
 #footer a{
   text-decoration: none;
-
 }
 #footer a:hover{
   color: #db3232;
   transition: 0.5s;
 }
 .down-footer{
-  font-family: "Metal Mania", sans-serif, monospace;
+  font-family: "Boogaloo", sans-serif, monospace;
   padding-top: 1%;
 }
 /* END OF FOOTER */
@@ -150,9 +149,9 @@ body{
 /* END OF CONTACT MAIN */
 
 /* FACEBOOK ICON */
-.fa {
+.fa{
   padding: 15px;
-  font-size: 20px;
+  font-size: 30px;
   max-width: 30px;
   text-align: center;
   text-decoration: none;
